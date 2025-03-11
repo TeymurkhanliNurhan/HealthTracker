@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "healthTracker", "healthTracker\healthTracker.csproj", "{57B15939-0CBC-4E03-9B7F-2DBB20A0B92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "healthTrackerTests", "healthTrackerTests\healthTrackerTests.csproj", "{8EF5B484-5E91-4B85-942F-E1FCE7A9E54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B15939-0CBC-4E03-9B7F-2DBB20A0B92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B15939-0CBC-4E03-9B7F-2DBB20A0B92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B15939-0CBC-4E03-9B7F-2DBB20A0B92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B15939-0CBC-4E03-9B7F-2DBB20A0B92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF5B484-5E91-4B85-942F-E1FCE7A9E54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF5B484-5E91-4B85-942F-E1FCE7A9E54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF5B484-5E91-4B85-942F-E1FCE7A9E54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF5B484-5E91-4B85-942F-E1FCE7A9E54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
